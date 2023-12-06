@@ -1,4 +1,4 @@
 # Relic of the Cookies
 ______________________
 
-A cookie clicker addon that adds some cool stuff
+an empty cookie clicker mod because i couldnt figure out the modding API
